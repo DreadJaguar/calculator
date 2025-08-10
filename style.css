@@ -3,6 +3,7 @@ body {
   font-family: Arial, sans-serif;
   background: url(WhatsApp\ Image\ 2025-07-21\ at\ 10.56.05\ AM.jpeg);
   background-size: cover;
+  background-repeat: no-repeat;
   margin: 0;
   padding: 0;
 }
